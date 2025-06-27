@@ -40,7 +40,7 @@ import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
 
 // Education Section Logo's
 import modernlogo from './assets/education_logo/modernlogo.png';
-import logo_12th from './assets/education_logo/12th_school_logo.png';
+import logo_12th from './assets/education_logo/12th_School_logo.png';
 import school from './assets/education_logo/school.jpg';
 
 // Project Section Logo's
